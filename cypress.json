@@ -1,0 +1,5 @@
+{
+  "numTestsKeptInMemory" : 1,
+  "blockHosts": ["www.google-analytics.com", "sentry.io"],
+  "video":  false
+}
